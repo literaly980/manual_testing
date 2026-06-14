@@ -1,5 +1,7 @@
 # Тестирование веб-приложения Swag Labs (saucedemo.com)
 
+![tests](https://github.com/literaly980/manual_testing/actions/workflows/tests.yml/badge.svg)
+
 Учебный проект по тестированию: ручное тестирование интернет-магазина
 [Swag Labs](https://www.saucedemo.com/) + автоматизация UI на Playwright.
 
